@@ -1,0 +1,13 @@
+body{
+
+  background-color:rgb(250, 219, 215) ;
+}
+
+iframe{
+margin-top: 60px;
+padding:50px; 
+align-items: center;
+background-color:rgb(250, 219, 215);
+width: 95%;
+
+}
